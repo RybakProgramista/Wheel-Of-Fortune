@@ -26,7 +26,7 @@ public class Question {
     public String show(){
         String out = "---Category: " + category + "---\n" + text + "\n";
         for (String ans : ansewrs) {
-            out += ">" + ans + "\n";
+            out += ans + "\n";
         }
         return out;
     }

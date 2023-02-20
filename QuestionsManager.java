@@ -4,9 +4,10 @@ import java.util.Random;
 
 public class QuestionsManager {
     private List<Question> questions = new ArrayList<>();
-    private FileManagment fileManagment = new FileManagment();
+    private FileManagment fileManagment;
     public QuestionsManager(){
         questions = fileManagment.getQuestionsList();
+        fileManagment = new FileManagment_FILE();
     }
     public Question getQuestion(int difficulty){
         Random r = new Random();
