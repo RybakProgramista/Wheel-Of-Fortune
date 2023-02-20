@@ -23,7 +23,7 @@ public class Question {
         isUsed = false;
     }
 
-    public String getQuestion(){
+    public String show(){
         String out = "---Category: " + category + "---\n" + text + "\n";
         for (String ans : ansewrs) {
             out += ">" + ans + "\n";

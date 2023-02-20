@@ -5,13 +5,13 @@ import java.util.Random;
 public class QuestionsManager {
     private List<Question> questions = new ArrayList<>();
     private FileManagment fileManagment = new FileManagment();
-    public QuestionManagers(){
+    public QuestionsManager(){
         questions = fileManagment.getQuestionsList();
     }
     public Question getQuestion(int difficulty){
         Random r = new Random();
         while(true){
-            int id = r.nextInt(0, questions.size());
+            int id = r.nextInt(questions.size());
             if(questions.get(id).getDifficulty() == difficulty && !questions.get(id).checkIfUsed()){
                 questions.get(id).used();
                 return questions.get(id);
