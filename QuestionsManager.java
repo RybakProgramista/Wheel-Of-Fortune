@@ -6,8 +6,8 @@ public class QuestionsManager {
     private List<Question> questions = new ArrayList<>();
     private FileManagment fileManagment;
     public QuestionsManager(){
-        questions = fileManagment.getQuestionsList();
         fileManagment = new FileManagment_FILE();
+        questions = fileManagment.getQuestionsList();
     }
     public Question getQuestion(int difficulty){
         Random r = new Random();

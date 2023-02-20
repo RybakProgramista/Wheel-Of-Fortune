@@ -10,6 +10,7 @@ public class WheelOfFortune implements GameManager {
     private int turnNumber;
 
     public void play(){
+        isPlayin = true;
         while(isPlayin){
             startGame();
             midGame();
@@ -21,28 +22,30 @@ public class WheelOfFortune implements GameManager {
         questionsManager = new QuestionsManager();
         players = new ArrayList<>();
         sc = new Scanner(System.in);
-        isPlayin = true;
         System.out.print("Wybierz ilosc graczy \n>");
         int playerAmmount = sc.nextInt();
-        System.out.print("\nWybierz ilosc tur \n>");
-        int turnNumber = sc.nextInt();
-            for(int x = 0; x < playerAmmount; x++){
-                System.out.println("Witaj graczu nr " + x);
-                System.out.print("\nPodaj swoj nick \n>");
-                String nick = sc.nextLine();
-                players.add(new Player(nick, 0));
-            }
+        System.out.print("Wybierz ilosc tur \n>");
+        turnNumber = sc.nextInt();
+        for(int x = 1; x <= playerAmmount; x++){
+            System.out.print("Witaj graczu nr " + x + "\n");
+            System.out.print("Podaj swoj nick \n>");
+            String nick = sc.next();
+            players.add(new Player(nick, 0));
+        }
     }
     public void midGame(){
         for(int x = 0; x < turnNumber; x++){
             for (Player player : players) {
                 System.out.print("Tura gracza " + player.getName() + ", który ma " + player.getPoints() + " punktow" + "\nWybierz ilu punktowe chcesz pytanie (1/2/3)\n");
                 int difficulty = sc.nextInt();
-                questionsManager.getQuestion(difficulty);
+                Question currQ = questionsManager.getQuestion(difficulty);
+                System.out.print(currQ.show() + "\n" + "Twoja odpowiedz to(1/2/3/4): ");
+                int userAns = sc.nextInt();
+                if()
             }
         }
     }
     public void endGame(){
-
+        isPlayin = false;
     }
 }
