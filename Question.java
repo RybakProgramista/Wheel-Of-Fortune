@@ -20,6 +20,7 @@ public class Question {
         this.correctAnswer = correctAnswer;
         this.category = category;
         this.difficulty = difficulty;
+        isUsed = false;
     }
 
     public String getQuestion(){
@@ -31,5 +32,12 @@ public class Question {
     }
     public int getDifficulty(){
         return difficulty;
+    }
+
+    public boolean checkIfUsed(){
+        return isUsed;
+    }
+    public void used(){
+        isUsed = true;
     }
 }

@@ -8,11 +8,14 @@ public class QuestionsManager {
     public QuestionManagers(){
         questions = fileManagment.getQuestionsList();
     }
-    public getQuestion(int difficulty){
+    public Question getQuestion(int difficulty){
         Random r = new Random();
         while(true){
             int id = r.nextInt(0, questions.size());
-            
+            if(questions.get(id).getDifficulty() == difficulty && !questions.get(id).checkIfUsed()){
+                questions.get(id).used();
+                return questions.get(id);
+            }
         }
     }
 }
