@@ -30,6 +30,14 @@ public class Question {
         }
         return out;
     }
+    public boolean correctAns(String userAns){
+        if(userAns.equals(correctAnswer) ){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
     public int getDifficulty(){
         return difficulty;
     }

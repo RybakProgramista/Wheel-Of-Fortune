@@ -39,13 +39,22 @@ public class WheelOfFortune implements GameManager {
                 System.out.print("Tura gracza " + player.getName() + ", który ma " + player.getPoints() + " punktow" + "\nWybierz ilu punktowe chcesz pytanie (1/2/3)\n");
                 int difficulty = sc.nextInt();
                 Question currQ = questionsManager.getQuestion(difficulty);
-                System.out.print(currQ.show() + "\n" + "Twoja odpowiedz to(1/2/3/4): ");
-                int userAns = sc.nextInt();
-                if()
+                System.out.print(currQ.show() + "\n" + "Twoja odpowiedz to(a/b/c/d): ");
+                String userAns = sc.next();
+                if(currQ.correctAns(userAns)){
+                    System.out.print("\n  +++Poprawna odpowiedz!+++\n");
+                    player.addPoints(currQ.getDifficulty());
+                }
+                else{
+                    System.out.print("\n ---Niepoprawna odpowiedz!---\n");
+                }
             }
         }
     }
     public void endGame(){
         isPlayin = false;
+        for (Player player : players) {
+            System.out.println(player.getName() + " " + player.getPoints());
+        }
     }
 }
