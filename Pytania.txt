@@ -15,4 +15,13 @@ Kim byl Hirohito?/a)Chinskim generalem podczas wojny chinsko-japonskiej?/b) Chin
 Jak inaczej nazywamy bitwe warszawawska?/a) Cudem nad Wisla/ Cudem nad Odra/c) Cudem nad Wieprzem/ d) Zadne z powyzszych/a/Historia/1
 Kogo smierci byla jedna z przyczyn wybuchu 1 wojny swiatowej?/a)Francieszek Jozef/b) Otto Franciszek/c) Ferdynand Karol/d) Franciszek Ferdynand/d/Historia/3
 Ile zon mial Henryk VIII?/a) 3/b) 6/c) 7/d) 1/b/Historia/3
-W jakiej bitwie po raz pierwszy uzyto czolgow?/a) Bitwa pod Verden/b) Bitwa pod Somma/ c) Bitwa pod Gallipoli/d) Bitwa pod Ypres/b/Historia/2
+W jakiej bitwie po raz pierwszy uzyto czolgow?/a) Bitwa pod Verden/b) Bitwa pod Somma/c) Bitwa pod Gallipoli/d) Bitwa pod Ypres/b/Historia/2
+Jakie operatory sluza do porownywania dwoch zmiennych?/a) Operator przypisania/b) Operatory logiczne/c) Operatory relacyjne/d) Operatory równania/c/Java/1
+Jaki znak w javie ma negacja?/ a) !/ b) ?/ c) ./ d) -/a/Java/2
+Inaczej funkcja/a) metoda/b) obiekt/c) klasa/d) String/a/Java/3
+W jakiej petli wiemy ile ma sie dana czynnosc wykonac?/a) while/b) for/c) do wile/d) for each/b/Java/1
+Dzieki jakiej klasie mozemy odczytac dane podane przez uzytkownika?/a) toString/b) nextLine/c) Scanner/d) int/c/Java/2
+Co jest fundamentem javy?/a) klasa/b) obiekt/c) metoda/d) zmienna/a/Java/3
+Jaka konstrukcja posiada trzy podstawowe atrybuty, symboliczna nazwe, miejsce przechowowania i wartosc?/a) String/b) int/c) zmienna/d) obiekt/c/Java/2
+Jaka zmienna po podaniu wartosci nie może zostac zmieniona?/a) int/b) prywatna/c) publiczna/d) stała/d/Java/1
+Przez jaką firmę zostało stworzone JDK?/a) Sun/b) Oracle/c) Java/d) SpaceX/a/Java/3
