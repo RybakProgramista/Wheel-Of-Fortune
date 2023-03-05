@@ -25,3 +25,66 @@ Co jest fundamentem javy?/a) klasa/b) obiekt/c) metoda/d) zmienna/a/Java/3
 Jaka konstrukcja posiada trzy podstawowe atrybuty, symboliczna nazwe, miejsce przechowowania i wartosc?/a) String/b) int/c) zmienna/d) obiekt/c/Java/2
 Jaka zmienna po podaniu wartosci nie może zostac zmieniona?/a) int/b) prywatna/c) publiczna/d) stała/d/Java/1
 Przez jaką firmę zostało stworzone JDK?/a) Sun/b) Oracle/c) Java/d) SpaceX/a/Java/3
+W jakiej czesci ciala znajduje sie serce?/a) w glowie/b) w zoladku/c) w klatce piersiowej/d) w jelicie/c/Anatomia/1
+Ktora czesc ukladu nerwowego jest odpowiedzialna za funkcje poznawcze?/a) uklad oddechowy/b) uklad limfatyczny/c) uklad nerwowy/d) uklad kostny/c/Anatomia/1
+Gdzie znajduje sie trzustka?/a) w jelicie/b) w zoladku/c) w klatce piersiowej/d) w mozgu/b/Anatomia/1
+Jak nazywa sie czesc mozgu odpowiedzialna za pamiec?/a) wzgorze/b) tarcza/c) hipokamp/d) nerw wzrokowy/c/Anatomia/2
+Jak nazywa sie struktura szkieletowa komorek?/a) ekologia/b) korzen/c) cytoplazma/d) cytoszkielet/d/Anatomia/2
+Jak nazywamy komorki odpowiedzialne za przetwarzanie informacji w mozgu?/a) komorki macierzyste/b) neurony/c) komorki rakowe/d) komorki skory/b/Anatomia/2
+Jak nazywa sie nerw, ktory przekazuje informacje o dotyku, bolu i temperaturze?/a) nerw sluchowy/b) nerw wechowy/c) nerw ruchowy/d) nerw czuciowy/d/Anatomia/3
+Jakie komorki tworza uklad odpornosciowy?/a) komorki jajowe/b) komorki rakowe/c) komorki macierzyste/d) limfocyty/d/Anatomia/3
+Jak nazywa sie naczynie wlosowate, ktore zapewnia dostarczenie skladnikow odzywczych do komorek?/a) zyla/b) tetnica/c) aorta/d) zylka/b/Anatomia/3
+Jak nazywa sie stolica Ukrainy?/a) Moskwa/b) Lwow/c) Kijow/d) Petersburg/c/Geografia/1
+Jak nazywa sie najwyzszy szczyt Europy?/a) Mont Blanc/b) Mount Elbrus/c) Biokovo/d) Mount Etna/b/Geografia/3
+Jak nazywa sie najdluzsza rzeka Europy?/a) Dunaj/b) Ren/c) Weltawa/d) Dniestr/a/Geografia/2
+Jak nazywa sie stolica Polski?/a) Wieden/b) Berlin/c) Gdansk/d) Warszawa/d/Geografia/1
+Jak nazywa sie najwyzszy szczyt Afryki?/a) Kilimandzaro/b) Monte Rosa/c) Mont Blanc/d) Mount Elbrus/a/Geografia/3
+Jak nazywa sie najdluzsza rzeka Afryki?/a) Nil/b) Kongo/c) Senegal/d) Neman/a/Geografia/2
+Jak nazywa sie najwyzszy szczyt Azji?/a) Mount Elbrus/b) Kilimandzaro/c) Mont Blanc/d) Mount Everest/d/Geografia/3
+Jak nazywa sie najdluzsza rzeka Azji?/a) Mekong/b) Amur/c) Nil/d) Amazonka/b/Geografia/2
+Jak nazywa sie stolica Turcji?/a) Ankara/b) Stambul/c) Istanbul/d) Kijow/a/Geografia/1
+Co to jest energia kinetyczna?/a) energia potencjalna/b) energia wynikajaca z ruchu/c) energia cieplna/d) energia jonizacji/b/Fizyka/1
+Co to jest przyspieszenie?/a) stala predkosc/b) zmiana predkosci w czasie/c) stala przyspieszenie/d) zmiana przyspieszenia w czasie/b/Fizyka/1
+Co to jest zasada zachowania energii?/a) zasada zachowania masy/b) zasada zachowania pedu/c) zasada, ze energia nie moze byc stworzona ani zniszczona/d) zasada, ze energia jest przeksztalcana z jednego rodzaju energii w drugi/c/Fizyka/1
+Co to jest kwantowanie?/a) proces tworzenia kwantow/b) proces tworzenia czasteczek/c) proces przekazywania energii/d) proces, w ktorym energia moze byc wyrazana wylacznie w okreslonych ilosciach/d/Fizyka/2
+Jakiego rodzaju sily dzialaja pomiedzy czasteczkami?/a) sily elektryczne/b) sily grawitacyjne/c) sily miedzyczasteczkowe/d) sily magnetyczne/c/Fizyka/2
+Co to jest ruch harmoniczny?/a) ruch po okregu/b) ruch prostoliniowy/c) ruch, w ktorym przyspieszenie jest proporcjonalne do odleglosci od pozycji rownowagi/d) ruch, w ktorym predkosc jest proporcjonalna do czasu/c/Fizyka/2
+Jakiego rodzaju jest ruch Browna?/a) ruch prostoliniowy/b) ruch po okregu/c) ruch falowy/d) ruch losowy/d/Fizyka/3
+Co to jest fala elektromagnetyczna?/a) fala mechaniczna/b) fala akustyczna/c) fala skladajaca sie z pola elektrycznego i magnetycznego/d) fala wibracyjna/c/Fizyka/3
+Jakiego rodzaju jest fizyka kwantowa?/a) fizyka klasyczna/b) fizyka mechaniki/c) fizyka atomowa/d) fizyka opisujaca zachowanie czasteczek na poziomie kwantow/d/Fizyka/3
+Co to jest procesor?/a) element systemu operacyjnego /b) element komputera odpowiedzialny za obsluge danych /c) element komputera odpowiedzialny za obsluge grafiki /d) element komputera odpowiedzialny za obsluge urzadzen zewnetrznych/b/Informatyka/1
+Czym jest SQL?/a) jezyk programowania /b) system operacyjny /c) baza danych /d) system operacyjny dla urzadzen mobilnych/c/Informatyka/1
+Co to jest router?/a) urzadzenie do przechowywania danych /b) urzadzenie sluzace do przesylania i odbierania danych /c) urzadzenie sluzace do przechowywania danych /d) urzadzenie do obrobki danych/b/Informatyka/1
+Co to jest PHP?/a) jezyk skryptowy /b) system operacyjny /c) jezyk programowania /d) baza danych/a/Informatyka/2
+Co to jest algorytm?/a) lista instrukcji do wykonania /b) zestaw zmiennych /c) zbior danych /d) zestaw instrukcji do wykonania/a/Informatyka/2
+Co to jest kompilator?/a) program do tworzenia aplikacji /b) program do tworzenia stron internetowych /c) program do tworzenia programow /d) program do tworzenia baz danych/c/Informatyka/2
+Jakie jest zadanie komputera?/a) wykonywanie instrukcji /b) przechowywanie danych /c) przetwarzanie danych /d) wysylanie danych/a/Informatyka/3
+Co to jest programowanie obiektowe?/a) podejscie do tworzenia programow oparte na klasach /b) podejscie do tworzenia programow oparte na funkcjach /c) podejscie do tworzenia programow oparte na zmiennych /d) podejscie do tworzenia programow oparte na obiektach/d/Informatyka/3
+Czym jest aplikacja?/a) zbior kodu napisany w jezyku programowania /b) zestaw danych /c) program komputerowy /d) system operacyjny/c/Informatyka/3
+W jaki sposob silnik samochodowy przetwarza paliwo na energie?/a) dzieki wyzwalaniu energii chemicznej/b) dzieki wykorzystaniu energii slonecznej/c) dzieki wykorzystaniu energii wiatru/d) dzieki wykorzystaniu energii jadrowej/a/Motoryzacja/1 
+Jak nazywa sie najwieksza czesc ukladu zaplonowego?/a) swieca zaplonowa/b) cewka zaplonowa/c) czujnik polozenia walu/d) aparat zaplonowy/d/Motoryzacja/1
+Co to jest EOBD?/a) system monitorowania ukladu kierowania/b) system monitorowania ukladu napedowego/c) system monitorowania ukladu hamulcowego/d) system diagnostyczny silnika/d/Motoryzacja/1
+Jakie sa najczesciej stosowane paliwa silnikow spalinowych?/a) benzyna i gaz ziemny/b) olej i gaz ziemny/c) woda i olej/d) benzyna i olej napedowy/a/Motoryzacja/2
+Jakie sa glowne zalety silnikow wysokopreznych?/a) niska emisja spalin/b) wysoka moc/c) latwy dostep do czesci/d) niski koszt eksploatacji/d/Motoryzacja/2
+Jakie czynnosci wykonuje mechaniczny uklad wtryskowy paliwa?/a) wstrzykuje paliwo do silnika/b) reguluje moc silnika/c) dostarcza paliwo do silnika/d) oczyszcza spaliny z silnika/a/Motoryzacja/2
+Jakie sa najczestsze rodzaje skrzyn biegow?/a) manualna i automatyczna/b) mechaniczna i hydrauliczna/c) hydrokinetyczna i manualna/d) automatyczna i hydrokinetyczna/a/Motoryzacja/3
+Jakie czynnosci wykonuje uklad wydechowy?/a) wytwarza cisnienie w silniku/b) oczyszcza spaliny z silnika/c) wytwarza cieplo w silniku/d) dostarcza paliwo do silnika/b/Motoryzacja/3
+Jakie czynnosci wykonuje uklad chlodzenia?/a) wytwarza moc w silniku/b) oczyszcza paliwo z silnika/c) wytwarza cisnienie w silniku/d) chlodzi silnik/d/Motoryzacja/3
+W jakim roku wydano pierwszy album Michaela Jacksona?/a) 1967/b) 1972/c) 1979/d) 1984/b/Muzyka/1
+Kto byl wspoltworca piosenki "Bohemian Rhapsody" zespolu Queen?/a) Freddie Mercury/b) Brian May/c) John Deacon/d) Roger Taylor/a/Muzyka/1
+Ktory album Adele zostal wydany w 2015 roku?/a) 19/b) 25/c) 21/d) 28/b/Muzyka/1
+Jak nazywala sie debiutancka plyta zespolu The Doors?/a) Strange Days/b) L.A. Woman/c) Waiting for the Sun/d) Break On Through/a/Muzyka/2
+Kto napisal i nagral utwor "Proud Mary"?/a) Elvis Presley/b) Ray Charles/c) Johnny Cash/d) Creedence Clearwater Revival/d/Muzyka/2
+Ktory zespol wydal album "The wall" w 1979 roku?/a) Led Zeppelin/b) Pink Floyd/c) The Beatles/d) Rolling Stones/b/Muzyka/2
+Kto wydal album "Revival" w 2018 roku?/a) Rihanna/b) Beyonce/c) Taylor Swift/d) Eminem/d/Muzyka/3
+Kto napisal i nagral utwor "Imagine"?/a) John Lennon/b) Paul McCartney/c) George Harrison/d) Ringo Starr/a/Muzyka/3
+Jak nazywal sie pierwszy album zespolu Nirvana?/a) Smells Like Teen Spirit/b) Nevermind/c) In Utero/d) Bleach/d/Muzyka/3
+Kto jest autorem powiesci "Lalka"?/a) Henryk Sienkiewicz/b) Stefan Zeromski/c) Boleslaw Prus/d) Adam Mickiewicz/c/Literatura polska/1
+Kto napisal dramat "Dziady cz. III"?/a) Adam Mickiewicz/b) Boleslaw Prus/c) Henryk Sienkiewicz/d) Stefan Zeromski/a/Literatura polska/1
+Kto napisal powiesc "Kamienie na szaniec"?/a) Boleslaw Prus/b) Stefan Zeromski/c) Adam Mickiewicz/d) Aleksander Kamienski/b/Literatura polska/1
+Kto jest autorem powiesci "Ogniem i mieczem"?/a) Aleksander Kamienski/b) Boleslaw Prus/c) Henryk Sienkiewicz/d) Adam Mickiewicz/c/Literatura polska/2
+Kto napisal "Dziady cz. II"?/a) Aleksander Kamienski/b) Henryk Sienkiewicz/c) Adam Mickiewicz/d) Stefan Zeromski/c/Literatura polska/2
+Kto napisal powiesc "Quo Vadis"?/a) Stefan Zeromski/b) Boleslaw Prus/c) Adam Mickiewicz/d) Henryk Sienkiewicz/d/Literatura polska/2
+Kto napisal dramat "Zemsta"?/a) Aleksander Kamienski/b) Adam Mickiewicz/c) Henryk Sienkiewicz/d) Aleksander Fredro/d/Literatura polska/3
+Kto jest autorem powiesci "Faraon"?/a) Aleksander Kamienski/b) Adam Mickiewicz/c) Stefan Zeromski/d) Boleslaw Prus/d/Literatura polska/3
+Kto napisal "Dziady cz. I"?/a) Boleslaw Prus/b) Henryk Sienkiewicz/c) Adam Mickiewicz/d) Stefan Zeromski/c/Literatura polska/3
