@@ -61,7 +61,7 @@ Co to jest kompilator?/a) program do tworzenia aplikacji /b) program do tworzeni
 Jakie jest zadanie komputera?/a) wykonywanie instrukcji /b) przechowywanie danych /c) przetwarzanie danych /d) wysylanie danych/a/Informatyka/3
 Co to jest programowanie obiektowe?/a) podejscie do tworzenia programow oparte na klasach /b) podejscie do tworzenia programow oparte na funkcjach /c) podejscie do tworzenia programow oparte na zmiennych /d) podejscie do tworzenia programow oparte na obiektach/d/Informatyka/3
 Czym jest aplikacja?/a) zbior kodu napisany w jezyku programowania /b) zestaw danych /c) program komputerowy /d) system operacyjny/c/Informatyka/3
-W jaki sposob silnik samochodowy przetwarza paliwo na energie?/a) dzieki wyzwalaniu energii chemicznej/b) dzieki wykorzystaniu energii slonecznej/c) dzieki wykorzystaniu energii wiatru/d) dzieki wykorzystaniu energii jadrowej/a/Motoryzacja/1 
+W jaki sposob silnik samochodowy przetwarza paliwo na energie?/a) dzieki wyzwalaniu energii chemicznej/b) dzieki wykorzystaniu energii slonecznej/c) dzieki wykorzystaniu energii wiatru/d) dzieki wykorzystaniu energii jadrowej/a/Motoryzacja/1
 Jak nazywa sie najwieksza czesc ukladu zaplonowego?/a) swieca zaplonowa/b) cewka zaplonowa/c) czujnik polozenia walu/d) aparat zaplonowy/d/Motoryzacja/1
 Co to jest EOBD?/a) system monitorowania ukladu kierowania/b) system monitorowania ukladu napedowego/c) system monitorowania ukladu hamulcowego/d) system diagnostyczny silnika/d/Motoryzacja/1
 Jakie sa najczesciej stosowane paliwa silnikow spalinowych?/a) benzyna i gaz ziemny/b) olej i gaz ziemny/c) woda i olej/d) benzyna i olej napedowy/a/Motoryzacja/2

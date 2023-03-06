@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -53,8 +55,17 @@ public class WheelOfFortune implements GameManager {
     }
     public void endGame(){
         isPlayin = false;
+        int maxPoints = 0;
         for (Player player : players) {
             System.out.println(player.getName() + " " + player.getPoints());
+            if(maxPoints < player.getPoints()){
+                maxPoints = player.getPoints();
+            }
+        }
+        for(Player player : players){
+            if(player.getPoints() == maxPoints){
+                System.out.println("Najwiecej punktow zdobyl: " + player.getName());
+            }
         }
     }
 }
